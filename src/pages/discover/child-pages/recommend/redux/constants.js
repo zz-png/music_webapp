@@ -1,0 +1,12 @@
+export const GET_TOP_BANNER = 'get_top_banner'
+export const GET_HOT_RECOMMEND = 'get_hot_recommend'
+export const HOT_RECOMMEND_LIMIT = 8
+export const GET_NEW_ALBUM = 'get_new_album'
+export const UP_TOPLIST_ID = 19723756
+export const NEW_TOPLIST_ID = 3779629
+export const ORIGIN_TOPLIST_ID = 2884035
+export const GET_UP_TOPLIST = 'get_up_toplist'
+export const GET_NEW_TOPLIST = 'get_new_toplist'
+export const GET_ORIGIN_TOPLIST = 'get_origin_toplist'
+export const GET_SETTLE_SINGER = 'get_settle_singer'
+export const SETTLE_SINGER_LIMIT = 5
